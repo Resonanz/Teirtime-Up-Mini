@@ -1,4 +1,4 @@
-Prusa Slicer Printer Settings -> Custom G-code -> Start G-code
+; Prusa Slicer Printer Settings -> Custom G-code -> Start G-code
 
 M104 S[first_layer_temperature] ; Set Extruder Temperature and Wait
 M116                            ; Wait for all temperatures to reach their set values
