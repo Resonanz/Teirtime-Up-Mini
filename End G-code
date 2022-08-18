@@ -1,3 +1,5 @@
+; Prusa Slicer Printer Settings -> Custom G-code -> End G-code
+
 M104 S170             ; reduce extruder temperature
 
 M913 Z60              ; drop z motor current to 70%
