@@ -1,6 +1,6 @@
 # Teirtime-Up-Mini
 
-This repository contains the ugly details for configuring Teirtime Up Mini 3d printers with a Duet3d Wifi controller and IR bed levelling sensor.
+This repository (which needs tidying) contains the ugly details for configuring Teirtime Up Mini 3d printers with a Duet3d Wifi controller and IR bed levelling sensor.
 
 # DUET-Up-Mini
 
