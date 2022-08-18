@@ -1,0 +1,1 @@
+G29 S0                          ; Mesh bed probe, save heights to CSV file

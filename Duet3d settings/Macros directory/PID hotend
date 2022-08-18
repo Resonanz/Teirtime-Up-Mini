@@ -1,0 +1,1 @@
+M303 H1 P1 S220 ; tune heater 1 using 100% PWM, target temperature 220C

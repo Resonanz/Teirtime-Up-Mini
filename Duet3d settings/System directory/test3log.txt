@@ -1,0 +1,44 @@
+2022-07-18 20:56:42 [info] Event logging started at level warn
+2022-07-18 20:56:42 [info] Running: Duet WiFi 1.02 or later: 3.4.1 (2022-06-01 21:05:28)
+2022-07-18 20:56:42 [warn] Error: Heater 2 not found
+2022-07-18 20:56:42 [warn] Error: bad drive number
+2022-07-18 20:56:42 [warn] Error: Fan number 1 not found
+2022-07-18 20:56:42 [warn] Error: Fan number 2 not found
+2022-07-18 20:57:20 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 20:57:24 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 20:57:50 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 20:57:54 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 20:59:15 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 20:59:23 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 20:59:32 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:00:08 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:01:02 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:01:35 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:01:44 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:02:11 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:02:34 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:02:46 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:03:16 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:03:29 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:03:51 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:04:00 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:04:17 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:04:51 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:05:44 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:06:30 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:06:49 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:07:03 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:07:44 [warn] Error: G10: Invalid tool number
+2022-07-18 21:09:16 [warn] HTTP client 192.168.1.38 disconnected
+2022-07-18 21:09:19 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:10:46 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 21:10:50 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 21:12:59 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 21:13:03 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 21:13:50 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 21:13:54 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 21:22:50 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 21:22:59 [warn] Error: Attempting to extrude with no tool selected.
+2022-07-18 21:32:51 [warn] HTTP client 192.168.1.38 disconnected
+2022-07-18 21:32:53 [warn] HTTP client 192.168.1.38 login succeeded
+2022-07-18 21:39:03 [info] Event logging stopped

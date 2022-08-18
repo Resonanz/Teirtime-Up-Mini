@@ -1,0 +1,7 @@
+G91 ; relative positioning
+
+M913 Z60                 ; drop motor current to 70%
+G1 H1 Z115 F3000         ; return build plate to bottom 
+M913 Z100                ; restore motor current to 100%
+
+G1 Y100 F3000            ; Move build plate to the front for easier acccess

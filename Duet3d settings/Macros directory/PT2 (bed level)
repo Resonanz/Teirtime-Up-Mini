@@ -1,0 +1,5 @@
+; RW 2022-07-18
+
+G1 Z2 H2                      ; Move nozzle away from buildplate. Assume in absolute mode. H2 overwrites endstops to force below 0.
+G1 X60 Y0 Z2 H2 F2500         ; Move to position
+G1 Z0 F500                    ; Restore nozzle position

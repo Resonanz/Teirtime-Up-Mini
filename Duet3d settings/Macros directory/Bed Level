@@ -1,0 +1,10 @@
+; RW 2022-07-18
+
+;https://groups.google.com/g/3d-printing-tips--tricks/c/gvz2d4RweLU?pli=1
+T0
+G92 E0                               ; Reset Extruder
+G1 X3 Y23 F1500                      ; Move to start position
+G1 X40 Y23 F1500 E15                 ; Draw the first line
+G1 X40 Y60 F1500 E30
+G1 X0 Y0 F1500
+G92 E0                               ; Reset Extruder
