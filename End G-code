@@ -1,0 +1,8 @@
+M104 S170             ; reduce extruder temperature
+
+M913 Z60              ; drop z motor current to 70%
+G1 H1 Z120 F3000      ; Move quickly to Z axis bottom 
+M913 X100             ; return current to 100%
+
+G1 H1 X0 Y120 F2000   ; Push build plate to front for easy access to print (Rob added)
+M84                   ; disable motors
