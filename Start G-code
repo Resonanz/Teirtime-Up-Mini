@@ -1,0 +1,30 @@
+Prusa Slicer Printer Settings -> Custom G-code.
+
+M104 S[first_layer_temperature] ; Set Extruder Temperature and Wait
+M116                            ; Wait for all temperatures to reach their set values
+G10                             ; Retract
+
+G28                             ; Home all axes
+
+G29 S0                          ; Mesh bed probe, save heights to CSV file
+
+G90                             ; Use absolute coordinates
+
+M83                             ; Extruder relative mode
+
+G1 Z5 F500                      ; Following bed leveling, move tip away from bed and return to origin
+G1 X20 Y20 F3000                ; Move near origin, avoiding plate clips
+
+G1 Y-12 F1000                   ; Go outside print area
+G1 Z0.2                         ; Set the print layer thickness 
+G92 E0                          ; Set extruder to 0
+
+G1 E10                          ; Replace dripped plastic
+
+G1 X20 Y0 F1000
+G1 X80 E9 F1000                 ; Prusa intro line #1
+
+G1 X80 Y3 F1000
+G1 X20 Y3 E9 F1000              ; Prusa intro line #2
+
+G92 E0                          ; Set extruder to 0
