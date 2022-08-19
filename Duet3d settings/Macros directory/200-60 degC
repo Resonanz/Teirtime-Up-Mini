@@ -1,0 +1,2 @@
+M140 S60 R40          ; set bed temperature to 60C and bed standby temperature to 40C
+M568 P0 S200 A2       ; set nozzle temperature to 200 degC
